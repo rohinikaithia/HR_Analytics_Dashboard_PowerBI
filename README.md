@@ -20,7 +20,7 @@ KPI's Requirement: The HR department is responsible for monitoring and managing 
 SQL :
 Created an HR database in PostgreSQL, wrote SQL queries, and created a test document to QA the HR Analytics dashboard developed in Power BI and Tableau desktop software.
 1) Functional Validation- Test each feature work as per the requirement. To verify all the filters and action filters on the report work as per the requirement
-2) Data Validation- Check the accuracy and quality of data. To match the values in Tableau and Power BI reports with SQL queries
+2) Data Validation- Check accuracy and quality of data. To match the values in Tableau and Power BI reports with SQL queries
 3) Test Document- Create a test document that will contain the screenshots and queries used to test the reports  
 
 
