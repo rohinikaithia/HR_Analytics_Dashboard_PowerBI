@@ -17,7 +17,7 @@ KPI's Requirement: The HR department is responsible for monitoring and managing 
 5) Education Field-wise Attrition: The HR department requires visual representations to analyze attrition rates based on education fields. This helps identify specific educational backgrounds that may be associated with higher attrition, enabling the organization to tailor retention strategies accordingly.
 6) Attrition Rate by Gender for Different Age Groups: The HR department lacks visualization that displays attrition rates based on gender and different age groups. This makes it challenging to identify any age and gender-related attrition trends, preventing the organization from implementing targeted retention strategies for specific employee segments.   
 
-SQL:
+SQL :
 Created an HR database in PostgreSQL, wrote SQL queries, and created a test document to QA the HR Analytics dashboard developed in Power BI and Tableau desktop software.
 1) Functional Validation- Test each feature work as per the requirement. To verify all the filters and action filters on the report work as per the requirement
 2) Data Validation- Check the accuracy and quality of data. To match the values in Tableau and Power BI reports with SQL queries
